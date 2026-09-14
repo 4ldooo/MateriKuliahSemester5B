@@ -1,12 +1,12 @@
-# Praktikum Menyipkan lingkungan Pengembangan dan Memulai Pemrograman Mobile (React Native) #
+# Praktikum Menyipkan Lingkungan Pengembangan dan Memulai Pemrograman Mobile (React Native) 
 
-## Tujuan Pembelajaran ##
+## Tujuan Pembelajaran
 Mahasiswa mampu:
 1. Menyiapkan lingkungan pengembangan dan memulai pemrograman monnile (React Native)
 2. Membuat aplikasi dengan react native 
 3. Meneyelesaikan Tugas CV sederhana dengan React Native
 
-- memastikan istalasi git bash
+- Memastikan istalasi git bash
 - cek instalasi git bash (git --version)
 ![alt text](image.png)
 
@@ -17,3 +17,13 @@ Mahasiswa mampu:
 - open teriminal change directory ke Pertemuan-2
 - Masukkan perintah (npx create-expo-app-ptmn2 --template blank)
 - Bukti verifikasi
+![alt text](image-1.png)
+
+Running Project
+    -cd ptmn2
+    -npx expo start
+    -download expo go di hp
+    -bisa juga menggunakan web emilator di laptop/pc
+    -setelah berhentikan (ctrl + c)
+    -install (npx expo start install react-dom react-native-web)
+    -npx expo start--web
