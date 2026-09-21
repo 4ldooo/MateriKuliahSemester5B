@@ -36,5 +36,4 @@ Running Project
  -  Cita-cita
  -  Rencana Menggapai cita-cita
  -  konfirmasi keberhasilan
- <img src = "image-2.png" width = "25%" >
-  <img src = "WhatsApp Image 2026-09-14 at 12.08.42.jpeg"  width = "25%" >
+ <img src = "WhatsApp Image 2026-09-21 at 10.39.36.jpeg" width = "25%" >
