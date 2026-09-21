@@ -12,7 +12,7 @@ import {
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 
-// ====== GANTI DATA DI SINI ======
+
 const data = {
   nama: 'Ahmad Ali Murtadlo',
   nim: '2488010056',
@@ -22,7 +22,6 @@ const data = {
     'Belajar pemrograman secara konsisten, mengikuti proyek dan magang, ' +
     'membangun portofolio, serta memperluas jaringan di bidang teknologi.',
 };
-// ================================
 
 const GOLD = '#d4af37';
 
